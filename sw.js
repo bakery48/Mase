@@ -1,5 +1,5 @@
 // オフラインでもひとり用が遊べるように静的ファイルをキャッシュ
-const CACHE = 'magic-maze-v1';
+const CACHE = 'magic-maze-v2';
 const FILES = [
   './', 'index.html', 'style.css', 'manifest.webmanifest',
   'js/app.js', 'js/engine.js', 'js/tiles.js', 'js/render.js', 'js/net.js', 'vendor/peerjs.min.js',
